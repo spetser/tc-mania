@@ -1,0 +1,265 @@
+﻿header {
+  color: rgb(0, 26, 102);
+  background-color: powderblue;
+  font-family: gulim;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 1.8em;
+  line-height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+#title {
+  float: left;
+  margin-left: 2%;
+}
+
+nav {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#header2 {
+  margin-top: 6%;
+  margin-bottom: -2%;
+  font-size: 1em;
+}
+
+section.body {
+  color: black;
+  background-color: white;
+  font-family: courier new;
+  font-size: 1em;
+  text-align: justify;
+  width: 60%;
+  margin: auto;
+  letter-spacing: 1.5px;
+  word-spacing: 3px;
+  line-height: auto;
+  cursor: default;
+}
+
+#handenA {
+  text-align: right;
+}
+
+#handenA a {
+  font-style: italic;
+  text-decoration: underline;
+  color: #ff5500;
+}
+
+#handenB {
+  text-align: left;
+  font-style: italic;
+  text-decoration: underline;
+  color: #ff5500;
+}
+
+h1 {
+  text-align: center;
+  font-family: gulim;
+  color: rgb(0, 26, 102);
+  background-color: white;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.5em;
+  line-height: 2.5;
+  margin-bottom: 1cm;
+  border-radius: 5mm;
+  border: 2px solid powderblue;
+}
+
+table#t01 {
+  text-align: center;
+  width: 100%;
+  color: none;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 0.7em;
+  background-color: none;
+  border: none;
+  border-radius: none;
+}
+
+th a:hover {
+  color: #33ccff;
+  text-shadow: 5px 5px 5px white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+div.imageSun {
+  position: relative;
+  margin-left: -0.5%;
+  margin-right: -0.5%;
+}
+
+img {
+  height: 7cm;
+  width: 100%;
+}
+
+div.text {
+  position: absolute;
+  top: 45%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 2cm;
+  text-shadow: 0 0 10px orange, 0 0 20px orange, 0 0 30px orange, 0 0 40px orange, 0 0 70px orange, 0 0 80px orange, 0 0 100px orange, 0 0 150px orange, 0 0 200px orange, 0 0 300px orange, 0 0 400px orange, 0 0 500px orange;
+}
+
+#t02 {
+  text-align: left;
+  width: 100%;
+  color: rgb(0, 26, 102);
+  text-transform: undercase;
+  font-size: 1em;
+  background-color: white;
+  margin-bottom: 2cm;
+  padding: none;
+  border-spacing: 4px;
+  cursor: crosshair;
+}
+
+td {
+  border-style: solid;
+  border-color: powderblue;
+  border-width: 2px;
+  border-radius: 2mm;
+  padding: 6px;
+  width: 50%;
+}
+
+td:hover {
+  color: #33ccff;
+}
+
+.emergeContent {
+  display: none;
+}
+
+.emergeContentTwee {
+  color: crimson;
+  margin: 0;
+  font-size: 0.8em;
+}
+
+#td1x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx1:hover .emergeContent {
+  display: inline;
+}
+
+#td2x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx2:hover .emergeContent {
+  display: inline;
+}
+
+#td3x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx3:hover .emergeContent {
+  display: inline;
+}
+
+#td4x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx4:hover .emergeContent {
+  display: inline;
+}
+
+#td5x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx5:hover .emergeContent {
+  display: inline;
+}
+
+#td6x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx6:hover .emergeContent {
+  display: inline;
+}
+
+#td7x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx7:hover .emergeContent {
+  display: inline;
+}
+
+#td8x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx8:hover .emergeContent {
+  display: inline;
+}
+
+#td9x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx9:hover .emergeContent {
+  display: inline;
+}
+
+#td10x:hover .emergeContent {
+  display: inline;
+}
+
+#tdx10:hover .emergeContent {
+  display: inline;
+}
+
+section.twee {
+  background-color: #eff5f5;
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding-left: 20%;
+}
+
+ul.footerEen {
+  color: black;
+  font-size: 0.8em;
+  list-style-type: circle;
+}
+
+ul.footerTwee {
+  color: black;
+  font-size: 1em;
+  list-style-type: none;
+}
+
+li.core a {
+  color: black;
+  font-size: 4.8mm;
+  list-style-type: circle;
+}
+
+h5 {
+  color: black;
+  font-style: normal;
+}
